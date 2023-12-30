@@ -70,7 +70,7 @@ Further analysis is essential in determining critical drivers and gaining valuab
 
 
 ## Appendix
-The complete analysis can be found in the <a href="2Modeling Churn.ipynb">Jupyter Notebook</a> and in our <a href="presentation.pdf">presentation</a>.
+The complete analysis can be found in the <a href="Modeling Churn.ipynb">Jupyter Notebook</a> and in our <a href="presentation.pdf">presentation</a>.
 
 For general questions, please contact Andrei Hushcha at <a href="mailto:andrew.hushcha@gmail.com">andrew.hushcha@gmail</a>.
 <br>
